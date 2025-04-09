@@ -86,11 +86,6 @@ Simpler approximation that only depends on the degree distribution.
 - `numpy`, `scipy`, `networkx`, `matplotlib` (for optional plotting)
 - Custom modules as required (some methods may depend on specialized libraries for numerical routines)
 
-Install dependencies via:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## 📈 Example Usage
 
